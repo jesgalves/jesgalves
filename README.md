@@ -1,4 +1,3 @@
-![Jéssica](https://media.licdn.com/dms/image/D4D03AQF_DjkNsj8t2w/profile-displayphoto-shrink_200_200/0/1693087769361?e=1701907200&v=beta&t=-H0-6VvoBoSpSGPqMTDUCJLwi_WS9JxRTMunewyungs)
 
   # Olá, me chamo Jéssica! 😄
 
