@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas 👩‍🎓
 Me especializando como FullStack pela DIO. 
 
 
-## Tecnologias que me destaco 🚀
+## Tecnologias que uso no meu dia 🚀
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
