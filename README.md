@@ -15,7 +15,7 @@ Me especializando como FullStack pela DIO.
 
 ## 🔗 Conecte-se comigo!
 
-![LinkedIn](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=Linkedin&)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jéssica-de-oliveira-17855a249/)
 ![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=Instagram&)
 
 ## Github Stats
