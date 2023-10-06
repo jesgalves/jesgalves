@@ -3,7 +3,7 @@
 
 
 Estudante de Análise e Desenvolvimento de Sistemas 👩‍🎓
-Me especializando como FullStack pela DIO. 
+Me especializando como FullStack pela DIO. 😄
 
 
 ## Tecnologias que uso no meu dia 🚀
